@@ -36,5 +36,10 @@ public class HomeController {
 	}
 	
 	
+	@RequestMapping(value = "/jspracticeSec", method = RequestMethod.GET)
+	public String jspracticeSec(Model model) {
+		
+		return "JsPracticeSec";
+	}
 	
 }
