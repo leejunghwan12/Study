@@ -29,7 +29,7 @@ $(function(){
 	.css({"background-color": "#0ff"});
 	  */
 	  
-	eq(index) lt(index) gt(index) 탐색 선택자 
+	/* eq(index) lt(index) gt(index) 탐색 선택자 */ 
 	
 	
 	  
